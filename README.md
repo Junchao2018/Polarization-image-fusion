@@ -4,11 +4,6 @@ The code is for paper "PFNet: An unsupervised deep network for polarization imag
 
 
 
-model.py: PFNet architecture
-backward.py: training code (includes proposed loss function)
-test.py: testing code
-data_augmentation.py: the code of data augmentation
-
 
 If you use this code, please cite the following paper:
 
